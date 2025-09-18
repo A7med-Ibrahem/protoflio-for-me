@@ -7,5 +7,6 @@
 - Developed first with the **Mobile First** methodology, then adapted for desktop.  
 - Fully compatible with all mobile devices, with a clean and pleasant user interface.  
 
-![preview img ](/preview.png)
+![💙 Preview Image](/preview.png)
 
+Enjoy exploring my portfolio 💙
